@@ -1,14 +1,14 @@
-title: Your awesome title
+title: AI's Favorite Data Set
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: kai
+  email: k@a.i
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  It's amazing and scary to see what is becoming of our data. 
+  Instead of fighting against open data, I'm going to add my thoughts to it.
+  You can say that it isn't cool to contribute to the parameters shaping our future... but I would disagree.
 
 # Build settings
 
